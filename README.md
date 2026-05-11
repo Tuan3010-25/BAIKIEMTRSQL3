@@ -5,7 +5,6 @@
 |---|---|
 | **Họ tên** | Nghiêm Văn Tuấn  |
 | **Mã sinh viên** | K235480106076 |
-| **Tên Database** | `QuanLySinhVien_K235480106076` |
 | **Chủ đề** | Quản lý Tiệm cầm đồ  |
 
 Nhiệm vụ 1 : Thiết kế CSDL.
